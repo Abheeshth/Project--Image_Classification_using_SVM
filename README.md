@@ -26,3 +26,11 @@ so, we are going to use one vs rest method.
 
 ###  link to download dataset
 https://github.com/Abheeshth/machine-learning-online/tree/master/Datasets/Images/images
+
+### dataset consist
+dataset consist four classes:
+
+      1. Horse
+      2. Human
+      3. Dog
+      4. Cat
